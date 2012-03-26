@@ -1,0 +1,6 @@
+This is a satchmo payment module to use Paybox.
+
+You'll need to have the CGI provided by paybox (modulev3.cgi), and set the BIN_PROG_FULLPATH according to this path.
+
+
+
